@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fed333, in real life I am called Roman/
+- 👋 Hi, I’m @Fed333, in real life I am called Roman
 - 👀 I’m interested in learning cutting edge technologies, designing web-sites and handling with real customers.
 - 🌱 I’m currently learning at VNTU on a second course
 - 💞️ I’m looking to collaborate on reaching my goals concerns to becoming the truth back-end developer
